@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Drew hays Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 
 ### Prerequisites
 
